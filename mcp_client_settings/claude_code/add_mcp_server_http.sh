@@ -1,0 +1,1 @@
+claude mcp add --transport http 1c-md http://localhost/my_base/hs/mcp/
